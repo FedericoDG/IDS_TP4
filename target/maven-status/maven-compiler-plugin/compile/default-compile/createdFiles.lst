@@ -1,0 +1,10 @@
+Interfaces\Madre.class
+Models\Padre.class
+Interfaces\Tio.class
+Models\Auto.class
+com\mycompany\ids_tp4\IDS_TP4.class
+Interfaces\Hermano.class
+Models\Casa.class
+Models\Madre.class
+Models\Celular.class
+Models\Hijo.class
